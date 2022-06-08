@@ -8,4 +8,5 @@ Respositório destinado a avaliação
 
 ## Execução de testes
 -test:open: `npx cypress open`
+
 -test:headless: `cypress run`
